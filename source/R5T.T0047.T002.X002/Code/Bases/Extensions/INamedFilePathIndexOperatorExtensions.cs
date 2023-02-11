@@ -1,8 +1,8 @@
 using System;
 using System.IO;
-using System.Linq;
 
-using Newtonsoft.Json;
+using R5T.Magyar;
+using R5T.Newport;
 
 using R5T.T0047.T001;
 using R5T.T0047.T002;

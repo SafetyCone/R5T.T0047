@@ -47,7 +47,7 @@ namespace System
         }
 
         /// <summary>
-        /// Selects <see cref="AddEntryIdempotent(IProjectIndexOperator, ProjectIndex, ProjectIndexEntry)"/> as the default.
+        /// Selects <see cref="AddEntryIdempotent(INamedFilePathIndexOperator, NamedFilePathIndex, NamedFilePathIndexEntry)"/> as the default.
         /// </summary>
         public static void AddEntry(this INamedFilePathIndexOperator _,
             NamedFilePathIndex index,
